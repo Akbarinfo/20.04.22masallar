@@ -44,3 +44,15 @@
 //masala 4
 
 //masala 5
+
+
+
+let n = '900b 24z6 98a 1x23'
+
+let a = n.split(' ')
+
+console.log(a)
+
+// for(let i = 0; i < a.length; i++) {
+//   console.log(a[i])
+// }
